@@ -1,0 +1,301 @@
+Date,Time,Location,Vehicles,Casualties,Weather,Road_Condition,Severity
+2023-01-01,16:30,Sector 5,3,2,Fog,Wet,Minor
+2023-01-02,20:00,Sector 12,4,2,Clear,Wet,Minor
+2023-01-03,18:00,Highway,4,0,Rainy,Dry,Minor
+2023-01-04,09:30,Sector 5,3,0,Clear,Wet,Major
+2023-01-05,08:00,Sector 12,2,2,Fog,Wet,Minor
+2023-01-06,18:00,Highway,3,0,Cloudy,Wet,Severe
+2023-01-07,18:00,Highway,2,1,Cloudy,Wet,Minor
+2023-01-08,20:00,Sector 5,4,0,Cloudy,Dry,Major
+2023-01-09,09:30,Sector 10,2,1,Clear,Wet,Minor
+2023-01-10,16:30,Highway,3,0,Fog,Dry,Major
+2023-01-11,20:00,Sector 5,4,1,Rainy,Dry,Minor
+2023-01-12,22:00,Sector 12,1,2,Clear,Dry,Major
+2023-01-13,18:00,Sector 7,2,2,Rainy,Wet,Minor
+2023-01-14,11:00,Sector 5,3,3,Fog,Wet,Severe
+2023-01-15,11:00,Sector 5,1,2,Rainy,Dry,Minor
+2023-01-16,14:00,Sector 7,3,1,Cloudy,Wet,Major
+2023-01-17,09:30,Sector 5,2,3,Clear,Wet,Severe
+2023-01-18,14:00,Sector 5,4,2,Fog,Dry,Minor
+2023-01-19,16:30,Sector 7,1,3,Rainy,Dry,Major
+2023-01-20,14:00,Market Area,2,1,Clear,Dry,Major
+2023-01-21,14:00,Sector 5,2,0,Cloudy,Dry,Major
+2023-01-22,11:00,Market Area,1,2,Clear,Dry,Major
+2023-01-23,16:30,Sector 12,2,1,Clear,Wet,Severe
+2023-01-24,22:00,Highway,3,1,Cloudy,Dry,Severe
+2023-01-25,16:30,Market Area,4,0,Rainy,Dry,Minor
+2023-01-26,11:00,Sector 12,2,2,Rainy,Wet,Severe
+2023-01-27,22:00,Sector 7,1,2,Cloudy,Wet,Minor
+2023-01-28,08:00,Market Area,4,0,Rainy,Wet,Major
+2023-01-29,11:00,Sector 12,4,3,Rainy,Wet,Minor
+2023-01-30,22:00,Market Area,4,0,Cloudy,Wet,Major
+2023-01-31,14:00,Sector 12,3,0,Cloudy,Dry,Severe
+2023-02-01,18:00,Sector 5,1,3,Rainy,Wet,Major
+2023-02-02,20:00,Sector 12,3,3,Rainy,Dry,Minor
+2023-02-03,09:30,Highway,4,1,Fog,Wet,Severe
+2023-02-04,11:00,Sector 5,2,0,Fog,Dry,Minor
+2023-02-05,09:30,Sector 5,3,3,Fog,Wet,Severe
+2023-02-06,20:00,Sector 5,3,3,Rainy,Wet,Major
+2023-02-07,14:00,Sector 5,4,2,Fog,Wet,Major
+2023-02-08,14:00,Highway,2,2,Fog,Wet,Minor
+2023-02-09,14:00,Sector 7,2,2,Fog,Wet,Severe
+2023-02-10,14:00,Highway,1,2,Rainy,Dry,Severe
+2023-02-11,14:00,Highway,3,1,Cloudy,Wet,Minor
+2023-02-12,11:00,Sector 10,4,3,Clear,Dry,Minor
+2023-02-13,16:30,Highway,4,3,Fog,Dry,Major
+2023-02-14,22:00,Highway,2,1,Clear,Dry,Minor
+2023-02-15,08:00,Sector 10,4,1,Clear,Wet,Minor
+2023-02-16,22:00,Sector 7,3,0,Cloudy,Dry,Major
+2023-02-17,20:00,Sector 7,3,0,Fog,Wet,Minor
+2023-02-18,22:00,Sector 7,1,3,Clear,Wet,Major
+2023-02-19,14:00,Sector 7,3,3,Clear,Wet,Minor
+2023-02-20,09:30,Market Area,3,1,Cloudy,Wet,Minor
+2023-02-21,09:30,Sector 10,1,1,Clear,Wet,Major
+2023-02-22,18:00,Sector 5,3,3,Fog,Dry,Major
+2023-02-23,18:00,Sector 7,3,2,Cloudy,Dry,Severe
+2023-02-24,09:30,Sector 10,2,3,Rainy,Wet,Severe
+2023-02-25,08:00,Sector 10,2,0,Cloudy,Dry,Minor
+2023-02-26,20:00,Sector 10,2,3,Cloudy,Wet,Severe
+2023-02-27,14:00,Sector 12,1,3,Fog,Dry,Minor
+2023-02-28,11:00,Sector 12,2,2,Clear,Dry,Major
+2023-03-01,14:00,Sector 5,2,3,Rainy,Wet,Severe
+2023-03-02,14:00,Sector 7,2,2,Fog,Dry,Severe
+2023-03-03,16:30,Highway,1,2,Clear,Wet,Severe
+2023-03-04,14:00,Sector 12,2,2,Clear,Wet,Minor
+2023-03-05,09:30,Sector 10,1,3,Cloudy,Wet,Severe
+2023-03-06,11:00,Sector 10,4,1,Fog,Wet,Minor
+2023-03-07,22:00,Sector 12,4,2,Rainy,Wet,Minor
+2023-03-08,16:30,Sector 10,2,3,Clear,Dry,Minor
+2023-03-09,20:00,Highway,2,3,Rainy,Wet,Severe
+2023-03-10,18:00,Sector 5,3,3,Fog,Wet,Major
+2023-03-11,18:00,Market Area,4,3,Cloudy,Wet,Minor
+2023-03-12,20:00,Sector 7,3,3,Fog,Wet,Major
+2023-03-13,09:30,Market Area,1,1,Clear,Dry,Minor
+2023-03-14,09:30,Sector 7,4,3,Rainy,Dry,Minor
+2023-03-15,22:00,Sector 7,3,0,Fog,Wet,Severe
+2023-03-16,18:00,Sector 5,3,1,Clear,Dry,Major
+2023-03-17,16:30,Sector 7,3,0,Fog,Dry,Minor
+2023-03-18,11:00,Sector 12,4,0,Clear,Wet,Severe
+2023-03-19,14:00,Sector 7,1,0,Clear,Dry,Minor
+2023-03-20,11:00,Market Area,2,2,Cloudy,Dry,Minor
+2023-03-21,09:30,Sector 10,4,3,Rainy,Wet,Severe
+2023-03-22,14:00,Sector 12,1,0,Fog,Wet,Severe
+2023-03-23,20:00,Sector 10,2,1,Cloudy,Wet,Minor
+2023-03-24,22:00,Sector 7,3,1,Fog,Dry,Severe
+2023-03-25,20:00,Market Area,2,3,Clear,Wet,Minor
+2023-03-26,18:00,Sector 10,2,0,Clear,Wet,Severe
+2023-03-27,22:00,Sector 7,1,0,Cloudy,Dry,Minor
+2023-03-28,08:00,Sector 7,1,3,Rainy,Wet,Minor
+2023-03-29,08:00,Sector 10,2,1,Fog,Dry,Major
+2023-03-30,22:00,Sector 12,3,3,Fog,Dry,Minor
+2023-03-31,14:00,Sector 7,2,3,Clear,Wet,Severe
+2023-04-01,08:00,Sector 7,2,2,Cloudy,Wet,Severe
+2023-04-02,18:00,Market Area,1,3,Rainy,Dry,Severe
+2023-04-03,09:30,Market Area,3,3,Rainy,Dry,Major
+2023-04-04,20:00,Sector 12,3,1,Clear,Dry,Severe
+2023-04-05,20:00,Sector 12,2,3,Fog,Dry,Major
+2023-04-06,18:00,Highway,4,1,Cloudy,Wet,Minor
+2023-04-07,14:00,Sector 5,4,1,Rainy,Dry,Minor
+2023-04-08,16:30,Sector 12,3,1,Rainy,Wet,Minor
+2023-04-09,16:30,Market Area,2,3,Rainy,Wet,Major
+2023-04-10,08:00,Sector 7,4,0,Clear,Wet,Minor
+2023-04-11,20:00,Sector 12,2,2,Rainy,Wet,Minor
+2023-04-12,09:30,Sector 5,3,0,Clear,Dry,Severe
+2023-04-13,16:30,Sector 10,2,2,Clear,Dry,Minor
+2023-04-14,08:00,Sector 10,1,0,Cloudy,Dry,Minor
+2023-04-15,09:30,Highway,3,0,Rainy,Wet,Major
+2023-04-16,08:00,Highway,4,0,Cloudy,Dry,Major
+2023-04-17,08:00,Market Area,3,1,Clear,Wet,Severe
+2023-04-18,14:00,Sector 7,4,1,Cloudy,Dry,Major
+2023-04-19,16:30,Sector 7,4,3,Clear,Dry,Minor
+2023-04-20,14:00,Sector 10,1,2,Fog,Wet,Minor
+2023-04-21,14:00,Sector 10,2,1,Cloudy,Dry,Major
+2023-04-22,18:00,Market Area,2,1,Fog,Wet,Severe
+2023-04-23,22:00,Sector 7,2,1,Clear,Wet,Major
+2023-04-24,14:00,Sector 10,3,2,Clear,Dry,Minor
+2023-04-25,22:00,Sector 10,4,0,Rainy,Wet,Minor
+2023-04-26,22:00,Sector 7,4,3,Fog,Dry,Major
+2023-04-27,11:00,Sector 5,2,1,Clear,Wet,Minor
+2023-04-28,22:00,Market Area,2,0,Rainy,Dry,Major
+2023-04-29,20:00,Highway,3,0,Rainy,Wet,Major
+2023-04-30,11:00,Sector 12,1,0,Fog,Dry,Severe
+2023-05-01,20:00,Market Area,2,1,Clear,Dry,Major
+2023-05-02,20:00,Market Area,2,3,Cloudy,Wet,Minor
+2023-05-03,08:00,Sector 12,1,3,Rainy,Wet,Severe
+2023-05-04,20:00,Market Area,2,1,Cloudy,Dry,Major
+2023-05-05,14:00,Sector 5,1,2,Fog,Dry,Major
+2023-05-06,18:00,Sector 12,4,0,Rainy,Dry,Minor
+2023-05-07,18:00,Market Area,4,1,Rainy,Dry,Major
+2023-05-08,22:00,Highway,1,0,Rainy,Dry,Major
+2023-05-09,09:30,Highway,1,1,Fog,Dry,Minor
+2023-05-10,22:00,Highway,2,2,Cloudy,Dry,Major
+2023-05-11,16:30,Highway,2,1,Fog,Dry,Major
+2023-05-12,11:00,Sector 12,3,1,Rainy,Dry,Minor
+2023-05-13,22:00,Sector 7,1,0,Cloudy,Dry,Severe
+2023-05-14,09:30,Sector 7,1,1,Rainy,Wet,Severe
+2023-05-15,14:00,Sector 7,1,3,Cloudy,Wet,Minor
+2023-05-16,14:00,Market Area,2,2,Clear,Wet,Severe
+2023-05-17,11:00,Sector 10,4,2,Fog,Dry,Minor
+2023-05-18,08:00,Market Area,2,3,Fog,Dry,Severe
+2023-05-19,14:00,Market Area,3,3,Cloudy,Dry,Severe
+2023-05-20,22:00,Market Area,2,2,Fog,Wet,Major
+2023-05-21,11:00,Sector 7,3,2,Fog,Dry,Major
+2023-05-22,09:30,Sector 12,2,1,Cloudy,Wet,Major
+2023-05-23,08:00,Sector 5,1,0,Clear,Dry,Major
+2023-05-24,08:00,Sector 7,3,0,Rainy,Dry,Severe
+2023-05-25,09:30,Highway,1,0,Fog,Dry,Severe
+2023-05-26,22:00,Sector 5,1,2,Rainy,Wet,Major
+2023-05-27,18:00,Sector 5,4,0,Rainy,Dry,Major
+2023-05-28,08:00,Sector 5,2,2,Fog,Wet,Severe
+2023-05-29,11:00,Highway,1,2,Fog,Dry,Minor
+2023-05-30,18:00,Market Area,2,0,Rainy,Dry,Major
+2023-05-31,20:00,Sector 5,4,2,Fog,Dry,Major
+2023-06-01,18:00,Market Area,1,0,Rainy,Wet,Minor
+2023-06-02,16:30,Sector 5,3,2,Fog,Dry,Minor
+2023-06-03,14:00,Sector 7,3,2,Clear,Wet,Major
+2023-06-04,14:00,Sector 7,2,1,Clear,Wet,Severe
+2023-06-05,16:30,Sector 10,1,1,Rainy,Wet,Minor
+2023-06-06,08:00,Sector 5,1,1,Clear,Wet,Severe
+2023-06-07,11:00,Sector 12,2,0,Rainy,Dry,Major
+2023-06-08,18:00,Highway,1,0,Rainy,Wet,Severe
+2023-06-09,22:00,Market Area,2,1,Clear,Dry,Minor
+2023-06-10,09:30,Sector 10,2,1,Fog,Wet,Minor
+2023-06-11,16:30,Sector 7,3,2,Rainy,Wet,Major
+2023-06-12,11:00,Sector 12,3,2,Rainy,Dry,Minor
+2023-06-13,09:30,Sector 7,2,2,Cloudy,Wet,Minor
+2023-06-14,16:30,Sector 10,3,3,Cloudy,Dry,Major
+2023-06-15,09:30,Sector 5,3,1,Fog,Wet,Severe
+2023-06-16,22:00,Sector 12,4,1,Fog,Dry,Major
+2023-06-17,20:00,Sector 10,2,2,Fog,Wet,Minor
+2023-06-18,22:00,Sector 10,2,3,Clear,Dry,Minor
+2023-06-19,14:00,Sector 12,1,1,Cloudy,Dry,Minor
+2023-06-20,11:00,Sector 7,1,1,Fog,Wet,Major
+2023-06-21,20:00,Sector 10,4,2,Cloudy,Wet,Minor
+2023-06-22,14:00,Sector 5,3,2,Fog,Wet,Major
+2023-06-23,08:00,Market Area,4,0,Clear,Wet,Major
+2023-06-24,20:00,Sector 5,3,1,Cloudy,Dry,Minor
+2023-06-25,14:00,Sector 12,1,3,Rainy,Dry,Minor
+2023-06-26,16:30,Market Area,3,3,Cloudy,Wet,Severe
+2023-06-27,22:00,Sector 7,3,2,Cloudy,Wet,Major
+2023-06-28,22:00,Market Area,2,0,Fog,Wet,Major
+2023-06-29,22:00,Sector 10,1,0,Fog,Dry,Major
+2023-06-30,09:30,Sector 7,3,2,Clear,Wet,Severe
+2023-07-01,22:00,Sector 10,3,3,Cloudy,Dry,Minor
+2023-07-02,09:30,Highway,1,0,Fog,Dry,Severe
+2023-07-03,20:00,Highway,3,0,Clear,Wet,Major
+2023-07-04,18:00,Sector 7,3,0,Cloudy,Dry,Minor
+2023-07-05,20:00,Market Area,1,2,Fog,Dry,Severe
+2023-07-06,16:30,Market Area,3,3,Fog,Wet,Severe
+2023-07-07,18:00,Sector 10,3,3,Clear,Dry,Major
+2023-07-08,14:00,Highway,2,1,Clear,Dry,Major
+2023-07-09,16:30,Market Area,2,1,Rainy,Wet,Major
+2023-07-10,18:00,Highway,3,1,Fog,Dry,Major
+2023-07-11,18:00,Market Area,2,0,Clear,Wet,Major
+2023-07-12,16:30,Highway,1,3,Rainy,Dry,Severe
+2023-07-13,18:00,Sector 5,4,2,Rainy,Dry,Major
+2023-07-14,11:00,Sector 7,4,0,Fog,Wet,Major
+2023-07-15,08:00,Highway,4,1,Rainy,Wet,Severe
+2023-07-16,09:30,Sector 5,4,0,Clear,Wet,Severe
+2023-07-17,22:00,Sector 12,2,0,Rainy,Wet,Major
+2023-07-18,16:30,Highway,2,3,Fog,Wet,Severe
+2023-07-19,20:00,Sector 5,2,3,Cloudy,Dry,Minor
+2023-07-20,20:00,Sector 12,1,2,Clear,Dry,Major
+2023-07-21,22:00,Highway,4,1,Rainy,Dry,Severe
+2023-07-22,18:00,Sector 7,4,1,Fog,Dry,Minor
+2023-07-23,14:00,Market Area,4,1,Clear,Dry,Minor
+2023-07-24,14:00,Sector 7,1,3,Rainy,Wet,Minor
+2023-07-25,14:00,Highway,2,2,Fog,Wet,Severe
+2023-07-26,16:30,Sector 12,4,3,Fog,Wet,Minor
+2023-07-27,18:00,Sector 5,3,1,Fog,Wet,Minor
+2023-07-28,20:00,Sector 12,4,1,Cloudy,Dry,Major
+2023-07-29,09:30,Highway,1,3,Clear,Wet,Severe
+2023-07-30,18:00,Highway,2,0,Cloudy,Dry,Major
+2023-07-31,22:00,Sector 12,4,2,Fog,Wet,Major
+2023-08-01,22:00,Highway,3,1,Fog,Wet,Minor
+2023-08-02,16:30,Sector 5,4,0,Cloudy,Wet,Severe
+2023-08-03,14:00,Sector 10,3,0,Fog,Dry,Severe
+2023-08-04,18:00,Sector 12,4,2,Fog,Dry,Major
+2023-08-05,08:00,Sector 10,1,0,Clear,Wet,Minor
+2023-08-06,14:00,Highway,3,1,Rainy,Dry,Major
+2023-08-07,16:30,Sector 5,4,3,Rainy,Wet,Major
+2023-08-08,08:00,Sector 7,4,0,Cloudy,Dry,Major
+2023-08-09,14:00,Sector 7,4,0,Rainy,Dry,Severe
+2023-08-10,20:00,Market Area,1,3,Fog,Wet,Severe
+2023-08-11,14:00,Market Area,3,2,Fog,Wet,Minor
+2023-08-12,18:00,Market Area,3,3,Rainy,Dry,Severe
+2023-08-13,11:00,Sector 7,2,0,Fog,Dry,Severe
+2023-08-14,16:30,Sector 7,2,1,Clear,Dry,Minor
+2023-08-15,20:00,Sector 10,1,1,Fog,Wet,Major
+2023-08-16,14:00,Sector 5,2,2,Rainy,Dry,Severe
+2023-08-17,16:30,Sector 5,1,3,Clear,Dry,Severe
+2023-08-18,11:00,Highway,2,1,Rainy,Wet,Major
+2023-08-19,18:00,Sector 10,2,3,Clear,Dry,Severe
+2023-08-20,09:30,Sector 12,3,3,Cloudy,Wet,Severe
+2023-08-21,16:30,Highway,4,1,Fog,Wet,Major
+2023-08-22,22:00,Sector 5,2,2,Clear,Dry,Severe
+2023-08-23,16:30,Sector 12,1,2,Fog,Dry,Major
+2023-08-24,08:00,Sector 10,4,1,Cloudy,Wet,Minor
+2023-08-25,14:00,Sector 7,1,2,Cloudy,Wet,Major
+2023-08-26,08:00,Market Area,2,0,Fog,Wet,Major
+2023-08-27,09:30,Sector 5,1,3,Cloudy,Dry,Major
+2023-08-28,20:00,Highway,2,3,Clear,Wet,Severe
+2023-08-29,11:00,Sector 12,4,3,Rainy,Dry,Minor
+2023-08-30,11:00,Sector 12,3,1,Clear,Dry,Major
+2023-08-31,14:00,Sector 10,2,1,Cloudy,Wet,Major
+2023-09-01,18:00,Highway,2,1,Clear,Wet,Severe
+2023-09-02,18:00,Sector 7,2,0,Clear,Wet,Severe
+2023-09-03,11:00,Highway,3,3,Cloudy,Dry,Major
+2023-09-04,18:00,Highway,2,2,Rainy,Dry,Severe
+2023-09-05,11:00,Sector 12,4,2,Cloudy,Wet,Severe
+2023-09-06,16:30,Sector 12,1,2,Fog,Wet,Minor
+2023-09-07,22:00,Sector 7,2,3,Rainy,Wet,Minor
+2023-09-08,09:30,Sector 5,1,1,Rainy,Wet,Severe
+2023-09-09,11:00,Sector 7,4,2,Fog,Dry,Severe
+2023-09-10,20:00,Market Area,4,1,Fog,Dry,Severe
+2023-09-11,20:00,Sector 10,4,0,Fog,Wet,Severe
+2023-09-12,14:00,Sector 10,1,2,Fog,Wet,Severe
+2023-09-13,22:00,Highway,4,3,Fog,Wet,Severe
+2023-09-14,14:00,Market Area,4,1,Cloudy,Dry,Minor
+2023-09-15,11:00,Market Area,1,1,Cloudy,Wet,Severe
+2023-09-16,20:00,Sector 7,4,1,Cloudy,Wet,Severe
+2023-09-17,11:00,Market Area,4,0,Fog,Dry,Severe
+2023-09-18,11:00,Sector 12,3,1,Fog,Dry,Major
+2023-09-19,09:30,Sector 5,2,1,Cloudy,Wet,Major
+2023-09-20,20:00,Market Area,3,0,Rainy,Wet,Major
+2023-09-21,18:00,Sector 10,3,3,Fog,Wet,Minor
+2023-09-22,16:30,Highway,4,3,Cloudy,Wet,Major
+2023-09-23,09:30,Sector 12,1,3,Fog,Dry,Major
+2023-09-24,18:00,Sector 10,2,2,Fog,Dry,Minor
+2023-09-25,18:00,Sector 7,3,3,Clear,Dry,Major
+2023-09-26,14:00,Sector 7,2,0,Fog,Wet,Major
+2023-09-27,11:00,Sector 5,4,1,Rainy,Wet,Severe
+2023-09-28,11:00,Sector 10,4,2,Rainy,Wet,Major
+2023-09-29,11:00,Sector 12,3,2,Cloudy,Wet,Minor
+2023-09-30,08:00,Sector 7,1,0,Rainy,Wet,Severe
+2023-10-01,09:30,Sector 7,3,0,Fog,Dry,Major
+2023-10-02,16:30,Sector 12,2,0,Cloudy,Wet,Severe
+2023-10-03,20:00,Sector 12,4,2,Fog,Dry,Minor
+2023-10-04,20:00,Sector 10,1,3,Fog,Dry,Minor
+2023-10-05,14:00,Sector 10,1,0,Fog,Dry,Severe
+2023-10-06,11:00,Sector 5,3,2,Rainy,Dry,Major
+2023-10-07,20:00,Highway,3,1,Rainy,Wet,Severe
+2023-10-08,14:00,Sector 10,3,3,Clear,Dry,Major
+2023-10-09,09:30,Market Area,4,2,Clear,Dry,Major
+2023-10-10,22:00,Sector 10,4,3,Cloudy,Dry,Minor
+2023-10-11,20:00,Sector 7,1,3,Cloudy,Dry,Minor
+2023-10-12,09:30,Sector 5,2,1,Fog,Wet,Severe
+2023-10-13,22:00,Highway,1,3,Cloudy,Dry,Major
+2023-10-14,22:00,Market Area,1,1,Rainy,Dry,Severe
+2023-10-15,22:00,Sector 5,4,3,Clear,Dry,Minor
+2023-10-16,16:30,Sector 7,4,2,Clear,Wet,Severe
+2023-10-17,16:30,Sector 7,2,0,Rainy,Wet,Severe
+2023-10-18,11:00,Sector 5,3,0,Rainy,Dry,Severe
+2023-10-19,08:00,Sector 12,3,3,Clear,Dry,Minor
+2023-10-20,14:00,Highway,4,1,Clear,Wet,Minor
+2023-10-21,08:00,Sector 10,1,0,Fog,Wet,Severe
+2023-10-22,18:00,Sector 7,3,3,Fog,Dry,Minor
+2023-10-23,11:00,Sector 5,3,0,Cloudy,Wet,Severe
+2023-10-24,22:00,Market Area,2,2,Clear,Wet,Major
+2023-10-25,11:00,Sector 10,3,0,Rainy,Wet,Minor
+2023-10-26,14:00,Highway,1,2,Clear,Wet,Major
+2023-10-27,22:00,Sector 12,4,0,Fog,Wet,Severe

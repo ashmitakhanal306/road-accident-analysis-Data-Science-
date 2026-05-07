@@ -1,0 +1,401 @@
+ID,Date,Time,Location,Weather,Vehicles_Involved,Accident_Severity,Casualties,Temperature
+1,2024-04-12,19:28,Rohini,Clear,4,Minor,0,23
+2,2024-08-02,10:10,Lajpat Nagar,Cloudy,4,Minor,0,26
+3,2024-11-04,01:23,Lajpat Nagar,Foggy,2,Minor,1,25
+4,2024-06-09,11:57,Karol Bagh,Rainy,4,Minor,0,32
+5,2024-07-06,15:14,Karol Bagh,Clear,3,Minor,1,7
+6,2024-11-02,06:20,Karol Bagh,Clear,2,Major,2,13
+7,2024-12-11,20:01,Connaught Place,Rainy,3,Major,1,12
+8,2024-02-04,13:16,Rohini,Clear,4,Major,2,10
+9,2024-02-23,09:03,Karol Bagh,Clear,3,Major,2,14
+10,2024-09-26,15:14,Chandni Chowk,Clear,3,Minor,1,44
+11,2024-07-31,15:44,Lajpat Nagar,Clear,1,Minor,0,33
+12,2024-01-15,12:00,Saket,Clear,1,Major,3,15
+13,2024-03-21,07:34,Saket,Foggy,3,Minor,0,32
+14,2024-05-14,08:07,Chandni Chowk,Clear,1,Minor,0,28
+15,2024-10-19,02:43,Lajpat Nagar,Rainy,3,Major,3,41
+16,2024-05-10,00:04,Lajpat Nagar,Rainy,3,Minor,0,13
+17,2024-07-25,14:25,Chandni Chowk,Clear,1,Minor,1,43
+18,2024-08-28,19:31,Chandni Chowk,Rainy,1,Minor,0,19
+19,2024-06-19,03:12,Chandni Chowk,Clear,3,Minor,1,6
+20,2024-06-18,12:56,Dwarka,Clear,4,Major,2,15
+21,2024-05-07,22:27,Lajpat Nagar,Clear,2,Minor,0,31
+22,2024-04-30,19:12,Chandni Chowk,Cloudy,3,Minor,0,13
+23,2024-11-13,04:32,Rohini,Clear,4,Minor,0,36
+24,2024-04-05,23:40,Lajpat Nagar,Clear,2,Fatal,5,16
+25,2024-10-21,01:02,Connaught Place,Clear,1,Fatal,4,6
+26,2024-05-09,21:22,Karol Bagh,Clear,1,Minor,1,6
+27,2024-02-22,11:25,Saket,Cloudy,4,Minor,0,15
+28,2024-07-02,16:37,Chandni Chowk,Clear,4,Fatal,3,15
+29,2024-08-27,15:32,Rohini,Clear,3,Minor,0,7
+30,2024-05-27,03:18,Rohini,Foggy,3,Minor,1,11
+31,2024-11-03,08:32,Lajpat Nagar,Clear,3,Major,1,15
+32,2024-05-30,09:34,Lajpat Nagar,Clear,4,Major,1,6
+33,2024-10-30,11:04,Rohini,Cloudy,3,Minor,0,39
+34,2024-05-26,15:15,Lajpat Nagar,Cloudy,4,Minor,0,28
+35,2024-04-25,10:48,Dwarka,Clear,2,Minor,1,39
+36,2024-04-21,02:24,Karol Bagh,Clear,4,Minor,1,39
+37,2024-07-26,08:35,Dwarka,Foggy,1,Minor,1,24
+38,2024-05-14,02:16,Dwarka,Clear,4,Minor,0,26
+39,2024-01-22,13:29,Saket,Cloudy,1,Minor,1,31
+40,2024-01-27,01:20,Chandni Chowk,Rainy,4,Major,1,9
+41,2024-11-12,15:18,Dwarka,Rainy,4,Minor,0,32
+42,2024-06-06,13:52,Saket,Cloudy,4,Minor,1,33
+43,2024-10-28,20:30,Rohini,Cloudy,1,Minor,0,25
+44,2024-06-09,02:17,Dwarka,Rainy,3,Fatal,4,44
+45,2024-06-22,23:49,Saket,Rainy,2,Minor,0,31
+46,2024-09-29,07:32,Saket,Clear,2,Minor,0,30
+47,2024-12-20,17:24,Connaught Place,Rainy,4,Minor,0,40
+48,2024-06-21,19:00,Lajpat Nagar,Clear,2,Major,3,27
+49,2024-05-22,01:01,Connaught Place,Clear,3,Minor,0,26
+50,2024-11-09,21:48,Connaught Place,Clear,2,Minor,0,41
+51,2024-09-20,20:59,Rohini,Clear,1,Minor,1,36
+52,2024-12-15,14:34,Chandni Chowk,Rainy,4,Minor,1,34
+53,2024-05-26,16:55,Lajpat Nagar,Clear,4,Major,2,41
+54,2024-04-26,22:08,Rohini,Rainy,1,Minor,0,38
+55,2024-04-05,21:47,Chandni Chowk,Clear,1,Minor,1,43
+56,2024-07-10,04:21,Karol Bagh,Foggy,3,Minor,1,41
+57,2024-03-26,13:27,Dwarka,Clear,1,Minor,1,9
+58,2024-07-22,15:25,Lajpat Nagar,Foggy,1,Minor,0,34
+59,2024-12-22,22:57,Saket,Rainy,1,Fatal,5,35
+60,2024-09-06,18:57,Chandni Chowk,Rainy,4,Major,3,6
+61,2024-06-08,19:23,Rohini,Rainy,3,Major,1,41
+62,2024-09-24,02:00,Lajpat Nagar,Cloudy,2,Minor,0,17
+63,2024-01-12,13:01,Rohini,Clear,2,Minor,0,30
+64,2024-09-20,09:25,Chandni Chowk,Clear,3,Minor,1,15
+65,2024-08-04,20:56,Chandni Chowk,Rainy,1,Major,3,39
+66,2024-02-05,17:48,Rohini,Foggy,4,Major,1,16
+67,2024-07-01,12:22,Saket,Foggy,1,Minor,0,24
+68,2024-08-04,21:12,Lajpat Nagar,Cloudy,1,Minor,0,23
+69,2024-03-16,08:06,Lajpat Nagar,Cloudy,3,Fatal,4,20
+70,2024-03-09,02:11,Connaught Place,Clear,3,Minor,0,27
+71,2024-05-23,06:44,Rohini,Cloudy,2,Minor,0,9
+72,2024-06-11,22:28,Saket,Clear,2,Fatal,2,14
+73,2024-09-09,05:06,Saket,Clear,4,Minor,1,31
+74,2024-05-01,01:04,Saket,Rainy,2,Fatal,5,5
+75,2024-12-07,19:16,Dwarka,Cloudy,1,Minor,1,10
+76,2024-09-08,18:43,Karol Bagh,Rainy,3,Minor,0,43
+77,2024-05-05,02:44,Chandni Chowk,Clear,4,Minor,1,32
+78,2024-11-12,08:38,Connaught Place,Foggy,1,Minor,0,29
+79,2024-11-07,00:37,Connaught Place,Clear,2,Minor,1,25
+80,2024-03-20,21:20,Karol Bagh,Cloudy,1,Minor,0,24
+81,2024-02-16,08:48,Rohini,Rainy,3,Fatal,3,7
+82,2024-05-23,22:56,Lajpat Nagar,Cloudy,2,Fatal,5,42
+83,2024-06-04,20:07,Dwarka,Clear,4,Minor,1,32
+84,2024-08-07,04:40,Lajpat Nagar,Clear,3,Minor,0,13
+85,2024-07-30,12:27,Chandni Chowk,Clear,1,Major,1,10
+86,2024-03-22,18:04,Saket,Rainy,2,Minor,1,9
+87,2024-04-28,23:32,Lajpat Nagar,Foggy,2,Fatal,2,15
+88,2024-12-06,21:58,Karol Bagh,Foggy,1,Minor,0,39
+89,2024-11-06,05:27,Connaught Place,Foggy,3,Major,3,27
+90,2024-02-22,04:09,Dwarka,Foggy,1,Minor,0,5
+91,2024-02-20,12:12,Saket,Clear,1,Minor,1,38
+92,2024-12-13,07:38,Connaught Place,Rainy,2,Minor,0,16
+93,2024-02-23,11:04,Chandni Chowk,Clear,3,Minor,1,27
+94,2024-07-25,04:20,Rohini,Rainy,3,Minor,1,38
+95,2024-10-20,17:33,Saket,Rainy,3,Minor,0,38
+96,2024-11-03,05:32,Lajpat Nagar,Foggy,4,Minor,1,21
+97,2024-05-12,03:09,Lajpat Nagar,Cloudy,2,Major,1,38
+98,2024-09-18,20:01,Rohini,Clear,3,Minor,0,27
+99,2024-07-01,15:30,Lajpat Nagar,Clear,4,Minor,1,8
+100,2024-07-02,02:31,Saket,Clear,1,Fatal,2,23
+101,2024-10-03,04:17,Saket,Clear,1,Minor,1,5
+102,2024-05-12,08:11,Chandni Chowk,Clear,2,Minor,1,31
+103,2024-03-13,14:56,Connaught Place,Rainy,4,Major,3,21
+104,2024-01-26,03:00,Connaught Place,Clear,3,Minor,0,26
+105,2024-01-14,22:13,Dwarka,Clear,1,Minor,0,11
+106,2024-01-03,14:22,Lajpat Nagar,Rainy,3,Minor,1,42
+107,2024-08-14,18:14,Connaught Place,Clear,3,Minor,1,43
+108,2024-09-29,06:21,Chandni Chowk,Clear,4,Minor,0,24
+109,2024-01-25,03:09,Karol Bagh,Foggy,1,Major,3,26
+110,2024-02-03,14:07,Chandni Chowk,Rainy,4,Minor,0,41
+111,2024-01-06,19:25,Chandni Chowk,Rainy,3,Minor,0,10
+112,2024-08-16,00:52,Chandni Chowk,Clear,2,Minor,1,8
+113,2024-12-15,10:29,Lajpat Nagar,Clear,3,Major,3,35
+114,2024-02-09,04:35,Rohini,Cloudy,2,Minor,1,15
+115,2024-01-04,14:05,Saket,Cloudy,2,Minor,0,6
+116,2024-11-30,10:07,Rohini,Clear,1,Major,2,30
+117,2024-04-27,03:18,Connaught Place,Clear,4,Minor,0,5
+118,2024-03-30,13:37,Saket,Rainy,3,Major,1,7
+119,2024-06-09,05:49,Connaught Place,Clear,1,Minor,1,6
+120,2024-01-13,07:01,Connaught Place,Clear,3,Minor,0,13
+121,2024-02-07,22:34,Karol Bagh,Clear,1,Major,2,18
+122,2024-05-16,01:11,Chandni Chowk,Clear,1,Major,2,33
+123,2024-11-23,10:40,Lajpat Nagar,Foggy,4,Minor,0,41
+124,2024-01-05,18:58,Chandni Chowk,Rainy,2,Minor,0,29
+125,2024-10-22,07:38,Karol Bagh,Foggy,4,Minor,1,37
+126,2024-01-23,14:32,Karol Bagh,Clear,1,Minor,1,18
+127,2024-11-04,07:39,Lajpat Nagar,Rainy,3,Minor,0,11
+128,2024-06-27,07:41,Connaught Place,Clear,3,Major,1,34
+129,2024-08-18,03:28,Saket,Clear,1,Major,3,37
+130,2024-09-10,03:21,Saket,Foggy,1,Fatal,2,42
+131,2024-06-07,14:35,Karol Bagh,Clear,4,Minor,0,12
+132,2024-09-17,14:03,Karol Bagh,Foggy,2,Minor,0,40
+133,2024-10-18,10:26,Karol Bagh,Clear,3,Fatal,5,42
+134,2024-05-13,07:22,Rohini,Clear,2,Minor,1,17
+135,2024-04-13,17:24,Karol Bagh,Clear,4,Major,1,41
+136,2024-11-23,09:48,Dwarka,Rainy,2,Minor,0,33
+137,2024-10-22,08:21,Dwarka,Cloudy,1,Minor,0,30
+138,2024-04-19,03:53,Karol Bagh,Foggy,1,Fatal,4,44
+139,2024-05-28,14:08,Chandni Chowk,Foggy,2,Major,1,30
+140,2024-10-17,19:24,Rohini,Cloudy,2,Minor,1,31
+141,2024-12-12,16:42,Rohini,Clear,3,Minor,1,29
+142,2024-06-28,05:52,Lajpat Nagar,Cloudy,1,Major,3,26
+143,2024-06-02,17:20,Connaught Place,Rainy,1,Fatal,2,24
+144,2024-04-27,21:27,Lajpat Nagar,Rainy,4,Major,1,36
+145,2024-05-20,22:50,Rohini,Clear,3,Minor,1,33
+146,2024-10-31,12:28,Rohini,Clear,4,Minor,0,18
+147,2024-06-23,17:01,Rohini,Rainy,1,Minor,1,8
+148,2024-09-20,22:38,Rohini,Foggy,2,Minor,1,38
+149,2024-03-27,22:27,Lajpat Nagar,Foggy,3,Major,1,7
+150,2024-09-11,07:53,Chandni Chowk,Clear,1,Minor,0,32
+151,2024-09-20,01:34,Connaught Place,Clear,2,Minor,1,20
+152,2024-06-13,21:20,Lajpat Nagar,Clear,3,Major,3,14
+153,2024-09-19,00:22,Dwarka,Foggy,4,Minor,1,33
+154,2024-07-06,17:01,Dwarka,Cloudy,1,Minor,1,6
+155,2024-07-13,22:54,Saket,Clear,1,Minor,1,34
+156,2024-08-13,20:43,Lajpat Nagar,Clear,2,Major,1,14
+157,2024-06-06,23:58,Connaught Place,Cloudy,4,Minor,1,21
+158,2024-01-14,08:39,Chandni Chowk,Rainy,1,Minor,1,26
+159,2024-08-22,13:03,Lajpat Nagar,Clear,1,Minor,0,41
+160,2024-03-15,05:17,Connaught Place,Rainy,2,Major,2,38
+161,2024-01-17,04:24,Dwarka,Clear,4,Minor,1,26
+162,2024-01-27,05:26,Karol Bagh,Rainy,4,Major,1,11
+163,2024-06-21,16:25,Saket,Clear,2,Minor,1,6
+164,2024-11-05,10:00,Rohini,Clear,4,Major,1,25
+165,2024-09-23,07:10,Dwarka,Clear,1,Major,3,38
+166,2024-02-24,14:23,Connaught Place,Cloudy,1,Minor,1,40
+167,2024-08-26,19:18,Lajpat Nagar,Rainy,3,Fatal,4,38
+168,2024-07-19,01:52,Chandni Chowk,Clear,4,Major,1,44
+169,2024-02-11,06:34,Connaught Place,Foggy,1,Minor,0,34
+170,2024-04-11,01:11,Karol Bagh,Clear,4,Major,1,21
+171,2024-11-25,22:48,Saket,Clear,2,Fatal,4,12
+172,2024-05-28,16:22,Lajpat Nagar,Foggy,4,Major,1,22
+173,2024-03-29,11:14,Karol Bagh,Rainy,1,Major,3,36
+174,2024-09-22,15:06,Chandni Chowk,Cloudy,2,Minor,1,11
+175,2024-09-26,14:52,Saket,Foggy,3,Major,2,27
+176,2024-03-22,19:38,Chandni Chowk,Clear,3,Major,1,18
+177,2024-06-07,23:34,Saket,Rainy,1,Minor,0,44
+178,2024-07-01,22:43,Dwarka,Rainy,4,Major,1,26
+179,2024-07-28,00:15,Rohini,Clear,4,Minor,0,39
+180,2024-06-18,01:29,Rohini,Clear,1,Minor,1,36
+181,2024-08-14,06:45,Connaught Place,Clear,2,Minor,1,20
+182,2024-08-23,14:56,Lajpat Nagar,Foggy,1,Minor,1,9
+183,2024-03-05,16:02,Connaught Place,Clear,4,Minor,1,22
+184,2024-10-19,15:00,Saket,Cloudy,3,Minor,0,28
+185,2024-05-19,04:36,Chandni Chowk,Clear,2,Fatal,4,28
+186,2024-01-11,12:33,Connaught Place,Clear,4,Minor,1,24
+187,2024-12-14,21:52,Chandni Chowk,Foggy,2,Minor,1,30
+188,2024-08-28,02:55,Saket,Clear,1,Minor,0,13
+189,2024-04-08,19:57,Karol Bagh,Rainy,3,Minor,1,22
+190,2024-03-02,16:23,Rohini,Cloudy,3,Minor,1,29
+191,2024-11-24,03:13,Rohini,Cloudy,3,Major,3,32
+192,2024-01-29,08:02,Chandni Chowk,Cloudy,4,Minor,0,44
+193,2024-01-25,04:10,Rohini,Clear,4,Minor,1,12
+194,2024-09-07,04:47,Dwarka,Clear,2,Fatal,5,17
+195,2024-10-10,04:12,Karol Bagh,Cloudy,4,Major,2,33
+196,2024-04-24,02:55,Saket,Rainy,4,Major,1,37
+197,2024-09-18,23:18,Rohini,Cloudy,4,Major,3,17
+198,2024-12-28,12:24,Chandni Chowk,Cloudy,4,Minor,1,11
+199,2024-05-12,10:44,Chandni Chowk,Cloudy,3,Major,2,14
+200,2024-06-08,10:52,Connaught Place,Foggy,3,Minor,1,18
+201,2024-03-17,11:38,Karol Bagh,Clear,1,Minor,0,21
+202,2024-12-25,01:59,Connaught Place,Clear,1,Major,2,23
+203,2024-03-14,08:31,Karol Bagh,Foggy,4,Minor,1,41
+204,2024-10-04,03:19,Chandni Chowk,Rainy,2,Fatal,5,21
+205,2024-01-12,21:16,Rohini,Rainy,1,Minor,1,22
+206,2024-11-01,13:46,Saket,Cloudy,4,Minor,1,16
+207,2024-01-07,10:32,Dwarka,Clear,3,Major,3,27
+208,2024-01-26,01:45,Rohini,Clear,4,Minor,0,43
+209,2024-09-27,22:28,Lajpat Nagar,Rainy,4,Fatal,4,18
+210,2024-03-24,21:10,Rohini,Clear,1,Fatal,5,32
+211,2024-01-21,14:15,Lajpat Nagar,Cloudy,4,Minor,0,9
+212,2024-09-13,05:14,Lajpat Nagar,Foggy,3,Minor,0,28
+213,2024-01-12,17:14,Rohini,Clear,3,Fatal,3,29
+214,2024-05-24,20:07,Chandni Chowk,Foggy,2,Major,3,7
+215,2024-12-14,11:52,Chandni Chowk,Cloudy,2,Minor,1,19
+216,2024-06-01,13:06,Connaught Place,Clear,4,Minor,0,42
+217,2024-11-14,21:53,Karol Bagh,Clear,2,Major,3,17
+218,2024-07-27,07:20,Chandni Chowk,Clear,4,Minor,0,35
+219,2024-06-14,10:44,Saket,Foggy,4,Major,3,26
+220,2024-06-27,23:40,Connaught Place,Clear,1,Minor,0,20
+221,2024-11-05,21:27,Rohini,Foggy,2,Major,2,37
+222,2024-01-02,00:32,Chandni Chowk,Cloudy,2,Minor,1,30
+223,2024-04-12,01:37,Saket,Rainy,2,Major,3,38
+224,2024-04-15,22:43,Dwarka,Clear,3,Minor,0,10
+225,2024-01-09,05:08,Rohini,Clear,4,Minor,1,12
+226,2024-11-23,17:27,Connaught Place,Foggy,2,Minor,0,11
+227,2024-03-24,15:03,Karol Bagh,Rainy,2,Minor,0,18
+228,2024-01-12,22:11,Dwarka,Clear,1,Minor,0,40
+229,2024-06-21,07:28,Lajpat Nagar,Foggy,3,Minor,1,22
+230,2024-07-29,21:36,Saket,Cloudy,1,Minor,1,14
+231,2024-08-30,02:28,Karol Bagh,Clear,3,Minor,1,34
+232,2024-07-31,23:19,Chandni Chowk,Rainy,4,Minor,1,28
+233,2024-02-19,16:50,Chandni Chowk,Rainy,4,Minor,1,40
+234,2024-03-06,14:33,Lajpat Nagar,Foggy,3,Minor,0,16
+235,2024-05-10,12:17,Lajpat Nagar,Rainy,3,Minor,1,12
+236,2024-04-09,15:29,Connaught Place,Clear,4,Minor,1,41
+237,2024-11-20,05:44,Dwarka,Clear,2,Major,3,18
+238,2024-08-18,19:01,Rohini,Clear,1,Minor,0,32
+239,2024-03-06,02:36,Saket,Clear,1,Major,1,27
+240,2024-10-29,10:09,Chandni Chowk,Clear,2,Minor,0,14
+241,2024-11-27,08:00,Connaught Place,Clear,4,Minor,0,24
+242,2024-10-10,10:36,Lajpat Nagar,Clear,4,Minor,0,32
+243,2024-07-25,05:43,Rohini,Rainy,4,Minor,1,13
+244,2024-10-19,19:25,Dwarka,Clear,3,Minor,0,9
+245,2024-06-09,16:50,Saket,Clear,2,Minor,1,28
+246,2024-09-07,10:33,Dwarka,Clear,1,Major,3,27
+247,2024-10-20,19:22,Saket,Clear,1,Minor,1,12
+248,2024-12-06,00:54,Rohini,Rainy,4,Minor,0,26
+249,2024-06-23,01:00,Rohini,Foggy,2,Minor,1,22
+250,2024-05-24,07:46,Lajpat Nagar,Rainy,4,Minor,0,8
+251,2024-10-15,00:18,Rohini,Cloudy,2,Minor,0,30
+252,2024-08-07,01:49,Saket,Rainy,3,Fatal,2,29
+253,2024-06-24,12:08,Dwarka,Clear,3,Major,2,42
+254,2024-05-11,05:18,Saket,Foggy,2,Fatal,4,23
+255,2024-12-30,10:00,Connaught Place,Clear,2,Minor,0,19
+256,2024-03-05,11:57,Rohini,Clear,1,Minor,0,29
+257,2024-10-31,16:34,Rohini,Clear,2,Minor,1,18
+258,2024-11-25,01:45,Lajpat Nagar,Rainy,1,Fatal,5,6
+259,2024-04-26,11:04,Rohini,Clear,1,Minor,1,19
+260,2024-02-12,15:22,Lajpat Nagar,Foggy,2,Major,3,25
+261,2024-04-16,22:15,Lajpat Nagar,Rainy,4,Fatal,5,15
+262,2024-02-20,14:03,Saket,Cloudy,2,Minor,1,8
+263,2024-02-21,13:26,Dwarka,Cloudy,4,Minor,1,40
+264,2024-06-06,17:01,Rohini,Clear,4,Major,2,15
+265,2024-09-19,11:09,Karol Bagh,Foggy,3,Major,1,40
+266,2024-03-24,03:53,Lajpat Nagar,Foggy,1,Minor,0,17
+267,2024-04-27,20:21,Chandni Chowk,Rainy,2,Minor,1,28
+268,2024-04-30,09:07,Lajpat Nagar,Foggy,1,Minor,0,8
+269,2024-02-19,23:18,Lajpat Nagar,Cloudy,3,Minor,1,23
+270,2024-06-12,09:32,Dwarka,Clear,1,Minor,0,38
+271,2024-06-09,22:20,Lajpat Nagar,Clear,4,Minor,0,32
+272,2024-06-08,10:09,Lajpat Nagar,Clear,1,Minor,1,29
+273,2024-09-14,02:06,Rohini,Rainy,3,Major,1,43
+274,2024-08-28,10:38,Connaught Place,Clear,2,Minor,1,42
+275,2024-02-11,06:44,Saket,Clear,4,Minor,1,7
+276,2024-03-13,07:32,Connaught Place,Clear,1,Minor,0,6
+277,2024-01-05,11:26,Saket,Rainy,4,Major,2,7
+278,2024-10-26,02:21,Saket,Rainy,3,Minor,1,21
+279,2024-10-17,01:22,Dwarka,Clear,4,Minor,1,40
+280,2024-11-28,14:56,Lajpat Nagar,Clear,2,Minor,0,20
+281,2024-01-12,16:15,Saket,Rainy,4,Minor,1,27
+282,2024-12-13,18:39,Chandni Chowk,Clear,4,Major,1,34
+283,2024-05-28,19:05,Rohini,Clear,4,Major,1,20
+284,2024-02-07,19:33,Connaught Place,Clear,4,Minor,1,6
+285,2024-12-26,20:01,Lajpat Nagar,Cloudy,1,Minor,0,27
+286,2024-06-02,03:17,Lajpat Nagar,Rainy,3,Major,3,26
+287,2024-11-11,04:51,Rohini,Clear,3,Minor,1,22
+288,2024-10-17,23:41,Dwarka,Cloudy,2,Minor,0,18
+289,2024-03-13,14:20,Lajpat Nagar,Clear,3,Minor,1,18
+290,2024-10-02,17:09,Lajpat Nagar,Foggy,1,Minor,0,40
+291,2024-04-04,13:00,Connaught Place,Rainy,2,Major,3,39
+292,2024-01-25,12:52,Dwarka,Clear,1,Minor,0,19
+293,2024-03-08,12:59,Dwarka,Foggy,4,Minor,0,35
+294,2024-11-29,19:17,Chandni Chowk,Clear,3,Minor,0,6
+295,2024-02-29,22:18,Saket,Clear,1,Major,2,29
+296,2024-05-09,10:49,Connaught Place,Clear,4,Minor,0,23
+297,2024-04-08,20:08,Dwarka,Foggy,2,Minor,1,20
+298,2024-09-08,00:03,Saket,Rainy,4,Fatal,4,33
+299,2024-11-03,03:59,Karol Bagh,Foggy,2,Minor,1,39
+300,2024-01-07,21:13,Chandni Chowk,Clear,1,Major,2,6
+301,2024-03-02,20:53,Connaught Place,Foggy,1,Major,2,43
+302,2024-03-05,12:20,Dwarka,Foggy,1,Fatal,3,41
+303,2024-06-21,03:16,Saket,Clear,4,Minor,0,30
+304,2024-07-14,01:51,Connaught Place,Clear,2,Minor,0,33
+305,2024-02-11,20:41,Saket,Cloudy,1,Minor,1,13
+306,2024-05-08,01:59,Lajpat Nagar,Clear,1,Major,2,44
+307,2024-10-03,10:54,Rohini,Rainy,3,Minor,0,19
+308,2024-12-08,23:44,Karol Bagh,Clear,4,Fatal,4,41
+309,2024-01-08,12:07,Karol Bagh,Clear,3,Minor,0,28
+310,2024-05-31,16:04,Saket,Rainy,4,Minor,1,40
+311,2024-05-18,19:14,Karol Bagh,Cloudy,3,Minor,0,9
+312,2024-09-17,21:31,Chandni Chowk,Clear,2,Minor,1,32
+313,2024-12-02,07:39,Lajpat Nagar,Rainy,2,Minor,0,40
+314,2024-11-19,13:40,Karol Bagh,Rainy,2,Minor,0,14
+315,2024-05-28,03:11,Rohini,Clear,2,Minor,0,36
+316,2024-12-16,15:31,Lajpat Nagar,Rainy,2,Minor,0,21
+317,2024-07-01,08:24,Saket,Clear,2,Minor,0,26
+318,2024-07-31,11:31,Connaught Place,Clear,1,Minor,0,36
+319,2024-08-09,22:38,Karol Bagh,Foggy,1,Major,1,17
+320,2024-05-28,07:45,Connaught Place,Foggy,3,Minor,1,15
+321,2024-09-12,21:21,Rohini,Cloudy,2,Minor,0,22
+322,2024-09-14,20:14,Saket,Clear,2,Minor,0,27
+323,2024-03-28,11:12,Connaught Place,Clear,1,Minor,1,7
+324,2024-07-09,21:18,Connaught Place,Clear,2,Major,3,29
+325,2024-05-07,04:46,Dwarka,Clear,2,Minor,0,9
+326,2024-01-03,00:03,Rohini,Clear,4,Major,2,29
+327,2024-01-10,20:45,Connaught Place,Rainy,3,Major,1,13
+328,2024-03-26,09:25,Connaught Place,Foggy,4,Major,2,38
+329,2024-01-20,10:15,Rohini,Clear,3,Minor,0,41
+330,2024-07-04,03:46,Dwarka,Clear,4,Major,2,39
+331,2024-06-02,04:37,Chandni Chowk,Clear,4,Minor,1,42
+332,2024-09-16,12:19,Lajpat Nagar,Clear,3,Minor,1,7
+333,2024-08-03,04:15,Dwarka,Clear,4,Minor,1,28
+334,2024-06-10,17:18,Lajpat Nagar,Clear,4,Minor,0,23
+335,2024-05-31,12:11,Saket,Foggy,2,Minor,1,23
+336,2024-06-21,03:29,Saket,Clear,3,Minor,0,32
+337,2024-09-07,14:10,Connaught Place,Foggy,2,Minor,0,10
+338,2024-09-16,19:47,Saket,Clear,3,Minor,1,15
+339,2024-12-24,08:25,Saket,Rainy,1,Minor,1,7
+340,2024-04-16,16:29,Connaught Place,Foggy,1,Minor,0,23
+341,2024-02-04,13:25,Chandni Chowk,Cloudy,1,Minor,1,25
+342,2024-03-14,04:35,Karol Bagh,Clear,4,Minor,0,39
+343,2024-05-08,23:56,Lajpat Nagar,Clear,1,Minor,1,35
+344,2024-03-24,23:24,Chandni Chowk,Cloudy,2,Minor,1,34
+345,2024-12-07,06:34,Connaught Place,Clear,2,Minor,1,20
+346,2024-06-30,09:24,Dwarka,Foggy,4,Minor,1,24
+347,2024-12-03,10:56,Dwarka,Clear,2,Minor,0,10
+348,2024-05-06,14:17,Connaught Place,Foggy,3,Fatal,4,11
+349,2024-06-02,11:55,Saket,Clear,1,Minor,0,22
+350,2024-03-09,02:22,Chandni Chowk,Clear,4,Minor,0,29
+351,2024-12-06,11:56,Dwarka,Clear,1,Minor,1,11
+352,2024-03-26,22:32,Connaught Place,Rainy,1,Minor,1,43
+353,2024-03-26,16:16,Saket,Rainy,2,Minor,0,14
+354,2024-12-06,04:01,Dwarka,Rainy,1,Major,2,20
+355,2024-05-04,06:21,Karol Bagh,Clear,3,Minor,1,14
+356,2024-04-08,18:48,Connaught Place,Clear,3,Major,2,8
+357,2024-12-31,19:21,Rohini,Clear,4,Major,2,32
+358,2024-09-26,08:39,Dwarka,Cloudy,2,Minor,1,29
+359,2024-09-04,02:07,Connaught Place,Clear,2,Minor,1,43
+360,2024-10-05,17:42,Lajpat Nagar,Foggy,3,Minor,1,14
+361,2024-01-08,23:59,Rohini,Foggy,4,Minor,1,13
+362,2024-02-16,14:47,Connaught Place,Cloudy,2,Minor,1,10
+363,2024-09-24,01:06,Karol Bagh,Rainy,1,Fatal,3,44
+364,2024-08-07,00:54,Connaught Place,Clear,1,Major,3,41
+365,2024-09-16,05:45,Saket,Clear,4,Minor,0,20
+366,2024-05-08,12:54,Lajpat Nagar,Clear,2,Minor,1,32
+367,2024-04-11,22:26,Karol Bagh,Rainy,3,Major,1,24
+368,2024-06-02,04:34,Chandni Chowk,Clear,1,Minor,1,10
+369,2024-07-29,11:56,Lajpat Nagar,Clear,3,Minor,0,25
+370,2024-08-03,01:21,Chandni Chowk,Foggy,4,Major,1,32
+371,2024-09-04,00:20,Connaught Place,Clear,2,Minor,0,22
+372,2024-11-09,10:56,Karol Bagh,Clear,4,Minor,0,15
+373,2024-12-15,14:26,Karol Bagh,Rainy,4,Major,2,6
+374,2024-09-04,14:38,Chandni Chowk,Clear,4,Minor,1,27
+375,2024-05-07,02:03,Connaught Place,Cloudy,3,Minor,0,25
+376,2024-08-14,20:52,Karol Bagh,Rainy,2,Fatal,2,43
+377,2024-12-20,12:14,Karol Bagh,Clear,1,Major,3,27
+378,2024-03-31,01:55,Karol Bagh,Clear,2,Major,2,39
+379,2024-05-26,13:58,Saket,Clear,1,Minor,1,30
+380,2024-04-11,22:21,Connaught Place,Cloudy,3,Fatal,4,23
+381,2024-07-19,19:44,Karol Bagh,Cloudy,3,Minor,1,23
+382,2024-04-29,05:52,Connaught Place,Rainy,4,Minor,0,37
+383,2024-11-03,13:10,Rohini,Clear,1,Minor,1,8
+384,2024-03-08,07:01,Saket,Rainy,2,Minor,1,20
+385,2024-03-02,16:47,Saket,Clear,3,Minor,1,25
+386,2024-09-11,20:04,Chandni Chowk,Clear,1,Minor,0,13
+387,2024-11-19,02:16,Saket,Clear,4,Minor,0,27
+388,2024-11-27,21:11,Saket,Clear,3,Minor,1,33
+389,2024-08-19,20:50,Karol Bagh,Clear,1,Major,3,11
+390,2024-12-13,03:21,Lajpat Nagar,Foggy,3,Major,2,28
+391,2024-06-10,22:40,Dwarka,Rainy,3,Major,2,29
+392,2024-07-28,16:11,Rohini,Rainy,3,Minor,1,5
+393,2024-04-02,12:48,Chandni Chowk,Rainy,2,Minor,0,24
+394,2024-11-07,16:12,Karol Bagh,Rainy,1,Minor,1,12
+395,2024-02-12,19:59,Saket,Clear,3,Major,1,13
+396,2024-12-09,04:48,Chandni Chowk,Rainy,4,Major,3,43
+397,2024-07-01,08:38,Dwarka,Clear,3,Minor,0,17
+398,2024-05-06,13:44,Rohini,Clear,4,Major,1,16
+399,2024-08-27,00:44,Karol Bagh,Foggy,4,Fatal,5,29
+400,2024-12-12,13:22,Saket,Foggy,3,Minor,0,24
